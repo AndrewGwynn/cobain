@@ -1,0 +1,23 @@
+.hero {
+  display: inline-block;
+  color: 000000;
+}
+.hero-image {
+  margin: auto;
+  width: 57%;
+  padding: 3px;
+}
+.hero-text {
+  margin:auto;
+  width: 80%;
+  color: FFFF00;
+}
+.hero-image2 {
+  margin-left: auto;
+  width: auto;
+  }
+.hero-text2 {
+  float: right;
+  width: 45%;
+  color: FFFF00;
+}
